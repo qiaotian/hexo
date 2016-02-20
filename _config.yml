@@ -3,19 +3,29 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: Tian Qiao
 subtitle:
 description:
-author: John Doe
+author: Tian Qiao
 language:
 timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+url: http://qiaotian.com
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
+
+# Personal
+avatar: /uploads/avatar.jpg
+# Social links
+social:
+  github: https://github.com/qiaotian
+  twitter: https://twitter.com/joursjoe
+  linkin: cn.linkedin.com/in/qiaotian
+  #douban: http://douban.com/people/your-user-name
+  #zhihu: http://www.zhihu.com/people/your-user-name
 
 # Directory
 source_dir: source
@@ -63,7 +73,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: http://hexo.io/plugins/
 ## Themes: http://hexo.io/themes/
-theme: landscape
+theme: next
 
 # Deployment
 ## Docs: http://hexo.io/docs/deployment.html

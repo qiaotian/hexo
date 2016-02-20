@@ -1,10 +1,10 @@
 title: Unix Shell Programming
 date: 2016-1=02-14
-tag: shell
+tag: SHELL
 ---
 
 ## grep (globally search a regular expression and print)
->grep is a command-line utility for searching plain-text data sets for lines matching a regular expression. Grep was originally developed for the Unix operating system, but is available today for all Unix-like systems.
+grep is a command-line utility for searching plain-text data sets for lines matching a regular expression. Grep was originally developed for the Unix operating system, but is available today for all Unix-like systems.
 
 A simple example of a common usage of grep is the following, which searches the file fruitlist.txt for lines containing the text string apple:
 ```bash
@@ -20,7 +20,7 @@ $ grep ^a.ple file.txt
 ```
 
 ## head
->head 用来显示档案的开头至标准输出中，默认head命令打印其相应文件的开头10行。
+head 用来显示档案的开头至标准输出中，默认head命令打印其相应文件的开头10行。
 命令格式
 ```bash
 head [-opt] ... [filename] ...

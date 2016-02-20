@@ -1,6 +1,6 @@
 title: Basic Math Function
 date: 2016-01-31 02:16:10
-tags: 三角函数 
+tags: MATH 
 ---
 
 ## 1 Trigonometric Function (三角函数)
@@ -41,17 +41,12 @@ double floor (double); 取下整
 double fabs (double);求绝对值
 double cabs(struct complex znum) ;求复数的绝对值
 ```
-## 7 Standard Float
-```bash
-double frexp (double f, int *p); 标准化浮点数, f = x * 2^p, 已知f求x, p ( x介于[0.5, 1] )
-double ldexp (double x, int p); 与frexp相反, 已知x, p求f
-```
-## 8 Modulo & Remainder
+## 7 Modulo & Remainder
 ```bash
 double modf (double, double*); 将参数的整数部分通过指针回传, 返回小数部分
 double fmod (double, double); 返回两参数相除的余数
 ```
-## 9 Others
+## 8 Others
 ```bash
 double hypot(double x, double y);已知直角三角形两个直角边长度，求斜边长度
 double ldexp(double x, int exponent);计算x*(2的exponent次幂)

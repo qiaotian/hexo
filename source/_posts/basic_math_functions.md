@@ -1,6 +1,6 @@
 title: Basic Math Function
 date: 2016-01-31 02:16:10
-tags:
+tags: 三角函数 
 ---
 
 ## 1 Trigonometric Function (三角函数)

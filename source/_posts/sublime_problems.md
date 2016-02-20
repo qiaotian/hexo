@@ -1,6 +1,6 @@
 title: Sumlime使用问题汇总
 date: 2016-02-01
-tags: sublime
+tags: SUBLIME
 ---
 
 ## unable to save file for **permission denied** on Mac OS EI Capitan

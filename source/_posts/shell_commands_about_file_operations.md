@@ -1,5 +1,5 @@
 title: Unix Shell Programming
-date: 2016-1=02-14
+date: 2016-02-14
 tag: SHELL
 ---
 

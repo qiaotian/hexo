@@ -23,7 +23,7 @@ avatar: /uploads/avatar.jpg
 social:
   github: https://github.com/qiaotian
   twitter: https://twitter.com/joursjoe
-  linkin: cn.linkedin.com/in/qiaotian
+  #linkin: cn.linkedin.com/in/qiaotian
   #douban: http://douban.com/people/your-user-name
   #zhihu: http://www.zhihu.com/people/your-user-name
 

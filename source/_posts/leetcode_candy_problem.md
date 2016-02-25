@@ -1,4 +1,4 @@
-title: Candy Problem from LeetCode
+title: Candy Problem
 date: 2016-02-20
 tag: CANDY LEETCODE
 ---

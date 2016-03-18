@@ -3,16 +3,18 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Tian Qiao
+title: I'm Tian Qiao
 subtitle:
 description:
-author: John Doe
+author: Tian Qiao
 language:
 timezone:
+avatar: /uploads/avatar2.png
+github: github.com/qiaotian
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+url: http://qiaotian.com
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
